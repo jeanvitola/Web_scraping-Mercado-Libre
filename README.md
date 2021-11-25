@@ -16,7 +16,7 @@
 
 Sin embargo muchas veces entre tanta oferta disponible en el mercado, se hace un poco tedioso encontrar la mejor opción de lo que estamos buscando. En mi caso, estaba buscando departamentos en cartagena de indias para arrendar, pero me di cuenta que hay muchas ofertas y eso me hace no poder decidir cual de todas escoger!!. Asi que se me ocurrió una forma de poder acceder a todas estas ofertas de arriendos, compararlas y visualizarlas de una manera más sencilla, para que me pudiera ayudar a encontrar la que más se adapta a mis necesidades, así que sin más rodeos vamos a la acción.
 
-La idea es realizar un web scraping, el cual es un proceso de extraer información de sitios web dinamicos o estaticos de manera automatica. El sitio web de preferencia fue mercado libre Finalmente con la información obtenida creé una base de datos para visualizar la información con otras herrameitnas de mapeo.
+La idea es realizar un web scraping, el cual es un proceso de extraer información de sitios web dinamicos o estaticos de manera automatica. El sitio web de preferencia fue mercado libre Finalmente con la información obtenida creé una base de datos para visualizar la información con otras herramientas de mapeo.
 
 </p>
 
